@@ -8,4 +8,4 @@
 2. DefaultEngine.ini 코드 추가 필요
 3. DefaultGame.ini  코드 추가 필요
 4. 프로젝트 build.cs 파일에 AddRange("OnlineSubsystemSteam","OnlineSubsystem", "UMG") 추가
-
+5. Menu.h 에 LobbyPath 지정
